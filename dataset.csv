@@ -1,0 +1,6 @@
+Location,Date,Coral_Cover_Percentage,Bleaching_Index,Species_Observed,Threatened_Species,Water_Temperature,pH_Level,Nutrient_Concentration,Pollution_Index,Human_Activity_Level,Conservation_Measures
+Great Barrier Reef,2024-01-15,65.0,2,"Acropora, Porites, Fungia",3,27.5,8.1,0.2,3,High,"Marine protected area, Coral gardening"
+Red Sea,2024-01-15,70.0,1,"Acropora, Montipora, Pocillopora",2,28.0,8.2,0.1,2,Medium,Restricted fishing
+Caribbean Sea,2024-01-15,55.0,3,"Agaricia, Siderastrea, Orbicella",5,26.0,8.0,0.3,4,High,Coral restoration
+South Pacific,2024-01-15,60.0,2,"Porites, Pocillopora, Montipora",1,27.0,8.1,0.15,3,Low,Marine protected area
+Indian Ocean,2024-01-15,50.0,4,"Acropora, Pocillopora, Stylophora",6,29.0,7.9,0.25,5,Medium,Artificial reefs
